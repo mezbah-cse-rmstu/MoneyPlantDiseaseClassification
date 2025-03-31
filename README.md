@@ -1,5 +1,5 @@
 # MoneyPlantDiseaseClassification
-This repository contains a deep learning-based approach to classify money plant diseases into three categories: Bacterial Wilt Disease, Manganese Toxicity, and Healthy. The model is implemented using TensorFlow and Keras on Google Colab. \n
+This repository contains a deep learning-based approach to classify money plant diseases into three categories: Bacterial Wilt Disease, Manganese Toxicity, and Healthy. The model is implemented using TensorFlow and Keras on Google Colab. /n
 **Setup Instructions:**
   Prerequisites
   To run this project, you will need:
