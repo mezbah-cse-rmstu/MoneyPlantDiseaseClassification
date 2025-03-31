@@ -4,9 +4,9 @@ This repository contains a deep learning-based approach to classify money plant 
 **Setup Instructions:**
   Prerequisites
   To run this project, you will need:
-  Python 3.x
-  TensorFlow: The main deep learning framework used for this model.
-  Keras: Used for building and training the CNN model.
+  Python 3.x,
+  TensorFlow: The main deep learning framework used for this model,
+  Keras: Used for building and training the CNN model,
   Google Colab (optional): The code is designed to be run in Google Colab for convenience, but can also be run locally if you have the required dependencies installed.
 
 **Dataset:**
