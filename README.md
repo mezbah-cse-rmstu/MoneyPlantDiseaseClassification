@@ -2,12 +2,12 @@
 This repository contains a deep learning-based approach to classify money plant diseases into three categories: Bacterial Wilt Disease, Manganese Toxicity, and Healthy. The model is implemented using TensorFlow and Keras on Google Colab.
 
 **Setup Instructions:**
- ** Prerequisites**
-    To run this project, you will need:
-    Python 3.x,
-    TensorFlow: The main deep learning framework used for this model,
-    Keras: Used for building and training the CNN model,
-    Google Colab (optional): The code is designed to be run in Google Colab for convenience, but can also be run locally if you have the required dependencies installed.
+
+ ** Prerequisites:** To run this project, you will need:
+        1. Python 3.x,
+        2. TensorFlow: The main deep learning framework used for this model,
+        3. Keras: Used for building and training the CNN model,
+        4. Google Colab (optional): The code is designed to be run in Google Colab for convenience, but can also be run locally if you have the required dependencies installed.
 
 **Dataset:**
 The dataset consists of images of money plants categorized into three classes:
